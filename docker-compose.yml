@@ -22,7 +22,7 @@ services:
     container_name: jenkins
     privileged: true
     ports:
-      - "8080:8080"
+      - "20000:8080"
       - "50000:50000"
     environment:
       - DOCKER_HOST=tcp://docker:2376
@@ -31,9 +31,7 @@ services:
     volumes:
       - jenkins-data:/var/jenkins_home
       - jenkins-docker-certs:/certs/client:ro
-    healthcheck:
-      test: "curl -f http://localhost:8080/login || exit 1"
-      start_period: 10s
+
 
 volumes:
   jenkins-data:
