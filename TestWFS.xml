@@ -235,7 +235,7 @@
     <ows:ExtendedCapabilities>
       <inspire_dls:ExtendedCapabilities xmlns="http://www.deegree.org/services/metadata" xmlns:inspire_common="http://inspire.ec.europa.eu/schemas/common/1.0" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://inspire.ec.europa.eu/schemas/common/1.0       http://inspire.ec.europa.eu/schemas/common/1.0/common.xsd       http://inspire.ec.europa.eu/schemas/inspire_dls/1.0       http://inspire.ec.europa.eu/schemas/inspire_dls/1.0/inspire_dls.xsd">
         <inspire_common:MetadataUrl>
-          <inspire_common:URL>https://www.metaver.de/csw?REQUEST=GetRecordById&amp;SERVICE=CSW&amp;VERSION=2.0.2&amp;id=329F4B66-ABC2-42F5-B8AA-3E9F5FCF3A4A</inspire_common:URL>
+          <!--<inspire_common:URL>https://www.metaver.de/csw?REQUEST=GetRecordById&amp;SERVICE=CSW&amp;VERSION=2.0.2&amp;id=329F4B66-ABC2-42F5-B8AA-3E9F5FCF3A4A</inspire_common:URL>-->
           <inspire_common:MediaType>application/vnd.iso.19139+xml</inspire_common:MediaType>
 			
         </inspire_common:MetadataUrl>
