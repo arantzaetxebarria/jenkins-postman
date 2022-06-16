@@ -87,7 +87,7 @@ This XML file does not appear to have any style information associated with it. 
 </inspire_common:MetadataUrl>
 <inspire_common:SupportedLanguages>
 <inspire_common:DefaultLanguage>
-<inspire_common:Language>eng</inspire_common:Language>
+<inspire_common:Language>en</inspire_common:Language>
 </inspire_common:DefaultLanguage>
 </inspire_common:SupportedLanguages>
 <inspire_common:ResponseLanguage>
